@@ -35,4 +35,4 @@ Faculty Mentor: James K. Peckol
 ## Resources:
 * [Poster](https://github.com/lit26/Internet-of-Life-Saving-Thing-IoLST-for-Firefighters/blob/master/ECE_Zetron_Poster_Presentation%2C2019.pdf)
 * [Zetron Inc](https://www.zetron.com/zetron-teams-with-engineering-students-to-bring-life-saving-first-responder-technology-forward/)
-* [UW ECE] (https://www.ece.uw.edu/spotlight/celebrating-student-innovation-and-entrepreneurship/)
+* [UW ECE](https://www.ece.uw.edu/spotlight/celebrating-student-innovation-and-entrepreneurship/)
