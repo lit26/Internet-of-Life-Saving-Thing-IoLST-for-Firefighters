@@ -4,7 +4,7 @@
 Goal: Development of an Internet of Things environmental sensing and communication system for fire rescue operations.
 
 
-Sponsor: Zetron Inc.
+Sponsor: Zetron Inc. , University of Washington Department of Electrical & Computer Engineering
 
 Team: Tianning Li, Hong Zhang, Shen Yuan Yao
 
